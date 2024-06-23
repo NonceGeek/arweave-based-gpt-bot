@@ -222,8 +222,8 @@ VectorDB   OriginalDB
 
 ```
                                                   +-------------------+
-													                        | Data Shares Hodler|
-													                        +-------------------+
+                                                  | Data Shares Hodler|
+						  +-------------------+
                                                             ↓ Buy Shares
 +-----------------+ Provide    +----------------+    +-------------+
 | Data Provider A |-----------→| Meta Dataset A |---→| Data Assets |-----+
