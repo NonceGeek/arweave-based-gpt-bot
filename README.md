@@ -1,5 +1,7 @@
 # Arweave-based GPT Bot
 
+> Intro Video: https://youtu.be/yWg9DgRblIk
+
 [EN](./README.md) / [CN](./README-CN.md)
 
 GPT Bot🤖 that based on Bodhi & Arweave, based on `Deno` & `Supabase`, using Action for the dynamic data support.
