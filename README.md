@@ -10,7 +10,7 @@ GPT Bot🤖 that based on Bodhi & Arweave, based on `Deno` & `Supabase`, using A
 > * [❤️情感小助手❤️](https://chat.openai.com/g/g-fag5sbpxJ-qing-gan-xiao-zhu-shou)
 > * [人生重开模拟器](https://relive.noncegeek.com)
 
-> [极速入门 GPT Bot | IndieHacker 成长指南（拾）](https://mp.weixin.qq.com/s/x5ffUlUd-mDT3dKOhrxCPg)
+# 极速入门 GPT Bot
 
 ## 0x01 GPT Store & GPT Bot
 
