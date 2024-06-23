@@ -1,8 +1,8 @@
-# Scaffold GPT Bot
+# Arweave-based GPT Bot
 
 [EN](./README.md) / [CN](./README-CN.md)
 
-Scaffold for GPT Bot🤖 in GPT Store, based on `Deno` & `Supabase`, using Action for the dynamic data support.
+GPT Bot🤖 that based on Bodhi & Arweave, based on `Deno` & `Supabase`, using Action for the dynamic data support.
 
 > Examples:
 >
@@ -138,7 +138,7 @@ Deno 操作文档：
         +----------------+               +-------------+
 ```
 
-简单来讲，对开发者而言在 GPT Store 里面上线 GPT Bot 是一种很好的冷启动方式，可以在早期验证 Idea 是否合理。在验证完毕之后，可以将 Chatbot 独立出来，成为一款成熟的产品~
+简单来讲，对开发者而言在 GPT Store 里面上线 GPT Bot 是一种很好的冷启动方式，可以在早期验证 Idea 是否合理。在验证完毕之后，可以将 Chatbot 独立出来，成为一款成熟的产品。
 
 
 
